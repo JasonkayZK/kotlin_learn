@@ -14,6 +14,7 @@ A repo to learn Kotlin.
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
 | [Kotlin基础知识](https://github.com/JasonkayZK/kotlin_learn/tree/1-basic) | 2021-01-14   | 变量、函数、逻辑控制、循环                                   |
 | [OOP](https://github.com/JasonkayZK/kotlin_learn/tree/2-oop) | 2021-01-14   | 类与对象、继承、构造方法、接口、<br />可见性修饰符、数据类、单例类 |
+| [Lambda](https://github.com/JasonkayZK/kotlin_learn/tree/3-lambda) | 2021-01-15   | Lambda编程：<br />集合函数式API、Java函数式API               |
 |                                                              |              |                                                              |
 
 
